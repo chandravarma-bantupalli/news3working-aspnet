@@ -7,5 +7,6 @@ namespace SampleS3Upload.Models
   {
     public HttpStatusCode StatusCode { get; set; }
     public string Message { get; set; }
+    public string test { get; set; }
   }
 }
